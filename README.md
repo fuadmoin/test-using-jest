@@ -5,7 +5,7 @@
   <img src="./img/logo2.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>To-do List</b></h3>
+  <h3><b>Test using Jest</b></h3>
 
 </div>
 
@@ -26,29 +26,21 @@
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 To Do List <a name="about-project"></a>
+# 📖 Test using Jest <a name="about-project"></a>
 
-**To Do List** is a simple project to add tasks that we want to do and mark them as done when complete.
+**Test using Jest** is a simple repo to exercise tests for JavaScript functions using Jest.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-- **HTML, CSS, and JavaScript**
+- **JavaScript**
 
 ### Key Features <a name="key-features"></a>
 
-- **html styled with css and javascript**
-- **uses webpack**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🚀 Live Demo <a name="live-demo"> </a>
-
-> Check out the live demo for this project [here.]('https://fuadmoin.github.io/TODOLIST/dist/')
+- **uses Jest Library**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -68,7 +60,7 @@ Example commands:
 
 ```sh
   cd my-folder
-  git clone https://github.com/fuadmoin/TODOLIST.git
+  git clone https://github.com/fuadmoin/test-using-jest.git
 ```
 
 ### Install
@@ -84,7 +76,7 @@ VS CODE
 
 ### Run tests
 
-change the value of the index to see if the order of the task is being changed.
+Give different values in string.test.js to check if the functions are working correctly.
 
 ### Deployment
 
@@ -104,9 +96,7 @@ You can deploy this project using Github-Page.
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[users will be able to input tasks]**
-- [ ] **[tasks will be displayed based on their order]**
-- [ ] **[users will be able to delete tasks that are completed]**
+- [ ] **[HTML and CSS will be added to display the tests]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -119,12 +109,6 @@ Contributions, [issues](https://github.com/fuadmoin/TODOLIST/issues), and featur
 ## ⭐️ Show your support <a name="support"></a>
 
 If you like this project please consider starring it.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-I would like to thank my coding partner [@Baqar](https://github.com/baqar-abbas) for helping me on this project with me.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
