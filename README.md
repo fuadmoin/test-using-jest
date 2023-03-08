@@ -102,7 +102,7 @@ You can deploy this project using Github-Page.
 
 ## 🤝 Contributing <a name="contributing"></a>
 
-Contributions, [issues](https://github.com/fuadmoin/TODOLIST/issues), and feature requests are welcome!
+Contributions, [issues](https://github.com/fuadmoin/test-using-jest/issues), and feature requests are welcome!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
