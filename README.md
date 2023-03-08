@@ -16,8 +16,8 @@
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
 - [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
   - [Prerequisites](#prerequisites)
+  - [Setup](#setup)
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
@@ -48,11 +48,11 @@
 
 To get a local copy up and running, follow these steps.
 
-### Prerequisites
+### Prerequisites <a name="prerequisites"></a>
 
 Web Browser, Code Editor.
 
-### Setup
+### Setup <a name="setup"></a>
 
 Clone this repository to your desired folder:
 
@@ -63,22 +63,22 @@ Example commands:
   git clone https://github.com/fuadmoin/test-using-jest.git
 ```
 
-### Install
+### Install <a name="install"></a>
 
 VS CODE
 
-### Usage
+### Usage <a name="usage"></a>
 
 ```
   code .
   open the index file with live server
 ```
 
-### Run tests
+### Run tests <a name="run-tests"></a>
 
 Give different values in string.test.js to check if the functions are working correctly.
 
-### Deployment
+### Deployment <a name="triangular_flag_on_post-deployment"></a>
 
 You can deploy this project using Github-Page.
 
@@ -102,7 +102,7 @@ You can deploy this project using Github-Page.
 
 ## 🤝 Contributing <a name="contributing"></a>
 
-Contributions, [issues](https://github.com/fuadmoin/TODOLIST/issues), and feature requests are welcome!
+Contributions, [issues](https://github.com/fuadmoin/test-using-jest/issues), and feature requests are welcome!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
